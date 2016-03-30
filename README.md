@@ -37,4 +37,4 @@ A Golang client for reading data from [ip2location](https://github.com/tankbusta
 
 ## Future Plans
 
-    * Allow for loading the entire database into memory
+* Allow for loading the entire database into memory
